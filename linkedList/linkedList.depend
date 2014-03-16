@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1292266780 source:c:\users\glados\documents\cis\c\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
